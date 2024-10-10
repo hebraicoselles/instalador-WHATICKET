@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Canal Vem Fazer</h1>
+<h1 align="center">🚀SN Tec</h1>
 <img src="https://imgur.com/N9LGCka.gif" />
 <h1 align="center">Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp.</h1> 
 
@@ -29,9 +29,9 @@ Email válido para certificação SSL
 
 ## Consultoria e contato:
 
-    CANAL VEM FAZER LTDA
+    CANAL SN Tec LTDA
 
-    Fone: 81 99627-7285(WhatsApp)
+    Fone: (WhatsApp)
 
 
 ## Se o conteúdo te ajudou ajude este projeto:
@@ -40,14 +40,14 @@ Email válido para certificação SSL
 
   <div align="center">
     <h3>Ajude com qualquer valor</h3>
-  <a href="https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR" target="_blank" rel="noopener noreferrer">
-    <img src="https://imgur.com/CQPHUBB.gif" style="width: 50% !important;">
+  <a href="https://nubank.com.br/cobrar/1hf8p3/670726ab-efc2-4d9f-933d-dcb50d3494b9" target="_blank" rel="noopener noreferrer">
+    <img src="" style="width: 50% !important;">
   </a>
 </div>
 
-Copia e cola:
-
-    00020126360014BR.GOV.BCB.PIX0114+55819962772855204000053039865802BR5924Raphael Batista da silva6009SAO PAULO610805409000622305190WFy6iqYAgBMQNdtcgc630407B3
+Copia e cola PIX:
+f6a715b6-ac0d-4f11-8f98-f57a08acad37
+    
     
 
 
