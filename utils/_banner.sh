@@ -23,7 +23,12 @@ print_banner() {
 
   printf "${CYAN_LIGHT}";
   
-  printf "  🆂🅽 - 🆃🅴🅲 \n";
+   printf "${CYAN_LIGHT}" "   _____   _    _  \n";
+  printf "${CYAN_LIGHT}" "  / ____| | \\ | |  \n";
+  printf "${CYAN_LIGHT}" "  | (___  |  \\| |  \n";
+  printf "${CYAN_LIGHT}" "  \\___ \ | |  | |  \n";
+  printf "${CYAN_LIGHT}" "  ____) | | |\\  |  \n";
+  printf "${CYAN_LIGHT}" " |_____/  |_| \\_|  \n";
     
   printf "${NC}";
 
